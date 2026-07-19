@@ -1,5 +1,4 @@
-Hello! I'M ORDAX KISANGI
-## 🌐 Socials:
+Hello! I'M MORGAN SMITH## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/creativemorgandev/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/creativemorgan) 
 
 # 💻 Tech Stack:
